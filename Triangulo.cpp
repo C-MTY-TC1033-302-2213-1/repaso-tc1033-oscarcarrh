@@ -20,7 +20,7 @@ Punto Triangulo::getVertice1(){
 Punto Triangulo::getVertice2(){
     return v2;
 }
-Punto gTriangulo::etVertice3(){
+Punto Triangulo::etVertice3(){
     return v3;
 }
 

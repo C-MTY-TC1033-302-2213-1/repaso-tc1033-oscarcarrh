@@ -28,7 +28,7 @@ void Punto::setY(double _y){
     y = _y;
 }
 
-//otros métodos
+//otros métodos de cálculos
 double Punto::calculaDistancia(Punto p2){
     return sqrt((p2.x - x) * (p2.x-x) + (p2.y-y) * (p2.y-y) );
 }

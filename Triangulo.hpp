@@ -6,6 +6,7 @@
 #include <stdio.h>
 #include "Punto.hpp"
 
+// Clase
 class Triangulo{
 private:
     Punto v1, v2, v3;

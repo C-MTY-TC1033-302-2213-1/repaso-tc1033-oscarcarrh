@@ -1,4 +1,3 @@
-// añadir todos los includes
 
 
 #ifndef Punto_hpp
