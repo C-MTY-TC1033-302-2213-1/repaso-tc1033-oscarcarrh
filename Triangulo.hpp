@@ -22,7 +22,7 @@ public:
     void setVertice2(Punto _v2);
     void setVertice3(Punto _v3);
 
-// otros métodos
+// Otros métodos
     double perimetro( );
     double area( );
     std::string str( );

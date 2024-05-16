@@ -2,7 +2,7 @@
 #include "Punto.hpp"
 
 
-// Los constructores
+// constructores
 Punto::Punto(){
     x = 0;
     y = 0;

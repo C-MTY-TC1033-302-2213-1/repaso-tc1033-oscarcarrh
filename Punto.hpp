@@ -24,7 +24,7 @@ public:
     void setX(double _x);
     void setY(double _y);
 
-//otros métodos
+//Otros tipos de métodos
     double calculaDistancia(Punto p2);
     std::string str();
 };
