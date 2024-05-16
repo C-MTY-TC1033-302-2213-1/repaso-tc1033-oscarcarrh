@@ -1,5 +1,3 @@
-
-
 #ifndef Triangulo_hpp
 #define Triangulo_hpp
 
@@ -14,20 +12,20 @@ public:
     Triangulo();
     Triangulo(Punto _v1, Punto _v2, Punto _v3);
 
-    // Métododos de acceso
+// Métododos de acceso
     Punto getVertice1();
     Punto getVertice2();
     Punto getVertice3();
 
-    // Métodos moddificadores
+// Métodos moddificadores
     void setVertice1(Punto _v1);
     void setVertice2(Punto _v2);
-    void setVertice3(Punto _v3),
+    void setVertice3(Punto _v3);
 
-    // otros métodos
-    double perimetro();
-    double area();
-    std::string str();
+// otros métodos
+    double perimetro( );
+    double area( );
+    std::string str( );
 };
 
 #endif /* Triangulo_hpp */

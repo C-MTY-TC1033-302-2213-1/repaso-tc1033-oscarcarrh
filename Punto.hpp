@@ -1,5 +1,3 @@
-
-
 #ifndef Punto_hpp
 #define Punto_hpp
 
@@ -14,7 +12,7 @@ private:
     double y;
 
 public:
-// constructores
+// Constructores
     Punto();
     Punto(double _x, double _y);
 
